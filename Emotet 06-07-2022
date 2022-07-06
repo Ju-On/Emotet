@@ -1,0 +1,59 @@
+Stage 1 Observed Email Indicators of Compromise (IOCs):
+Malicious File(s):
+File Name: pack_4.xls
+MD5: 5e15d87d47605b7bb5a71b4e846fe555
+SHA256: 400a576272826f7ad7f20a0689f56617b5354d5f2b84629bc1034177f1c4d060
+File Size: 97280 bytes (95K)
+
+File Name: pack_4.zip
+MD5: 1ebb7b2a4900e01a527fe2bbc40aeed7
+SHA256: 9379463ec0a4c3e41bb19efd78789c9fdd0b5d5cacdfdd96ea13c64b78283f48
+File Size: 39559 bytes (38K)
+
+Stage 2 Discovered Indicators of Compromise (IOCs):
+Malicious File(s):
+File Name: jYHlEHeW.dll
+MD5: e4d3e494d9bb52126667cf5b892ea4af
+SHA256: b6e99cc516637b23cc9d015ced0e164ad4b36977adcca73fcc9559bf6e1fc51e
+File Size: 536576 bytes (524K)
+
+File Name: ueWDQua.dll
+MD5: d13308cc074033b0fdfb5cd900e24d16
+SHA256: 2ddb72c160cbcea4cbec5703d7fba9ac8b59891c888af471b15a1f272818d0d6
+File Size: 536576 bytes (524K)
+
+File Name: idxotpzkbqqqg.exe
+MD5: 06210e84c1fa61b0a320559dd458625c
+SHA256: 2818289572ea6b60681d2724737c3e5c87b3731054f47e9d8e4253d8528d88b7
+File Size: 111802121105 bytes (104G)
+
+Payload URL(s):
+hXXp://harleyqueretaro[.]com/renew2019/Back2016-12-22/cv/data/mFTZ50JsmKq/
+hXXp://vietroll[.]vn:443
+hXXp://greycoconut[.]com/edm/X9xZ/
+hXXp://www[.]empresaweb[.]com[.]br:443
+
+Payload IP(s):
+103.77.162.11
+63.247.138.144
+180.149.241.246
+15.235.55.95
+
+Command & Control URL(s):
+hXXp://150[.]95[.]20[.]209:8080
+hXXps://139[.]59[.]44[.]48:8080/
+hXXps://94[.]23[.]45[.]86:4143/
+hXXps://198[.]27[.]67[.]35:8080/
+hXXp://174[.]138[.]33[.]49:7080
+hXXps://188[.]165[.]79[.]151/
+
+Command & Control IP(s):
+94.23.45.86
+139.59.44.48
+150.95.20.209
+188.165.79.151
+174.138.33.49
+198.27.67.35
+
+Malware Family/Delivery Mechanism(s):
+Emotet/Geodo
